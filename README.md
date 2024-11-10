@@ -1,1 +1,0 @@
-# vue-map-server-mihon
